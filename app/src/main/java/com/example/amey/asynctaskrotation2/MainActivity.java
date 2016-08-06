@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         editText= (EditText) findViewById(R.id.editText);
         listView.setAdapter(adapter);
         listView.setOnItemClickListener(this);
-
+/// test
         if(savedInstanceState==null)
         {
            fragment =new Nonuifragment();
