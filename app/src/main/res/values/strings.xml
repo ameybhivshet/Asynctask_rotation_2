@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asynctask rotation 2</string>
+    <string-array name="images">
+        <item>image1</item>
+        <item>image2</item>
+    </string-array>
+</resources>
