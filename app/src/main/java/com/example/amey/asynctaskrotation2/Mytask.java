@@ -53,8 +53,7 @@ public class Mytask extends AsyncTask {
             Log.d("PreMytask","actiivitynotnull");
             ((MainActivity) activity).showprogress();
             //asd
-            //branch1
-
+            //branch1changes
         }
     }
     @Override
