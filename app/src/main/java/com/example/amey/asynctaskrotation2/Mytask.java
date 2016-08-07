@@ -52,6 +52,7 @@ public class Mytask extends AsyncTask {
         } else {
             Log.d("PreMytask","actiivitynotnull");
             ((MainActivity) activity).showprogress();
+            //asd
 
         }
     }
